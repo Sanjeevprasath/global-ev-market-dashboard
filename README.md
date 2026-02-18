@@ -1,5 +1,8 @@
 🚗 Global EV Market \& Charging Infrastructure Dashboard (Excel – 2026)
 
+![Dashboard Screenshot](dashboard.png)
+
+
 📌 Project Overview
 
 
@@ -521,4 +524,5 @@ Sanjeev
 Aspiring Data Analyst
 
 📊 Excel | Data Analysis | Dashboarding
+
 
